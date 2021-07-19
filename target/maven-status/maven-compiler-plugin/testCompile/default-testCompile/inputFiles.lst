@@ -1,0 +1,6 @@
+/home/master/ILP_BookStoreWorkspace/src/test/java/devops/ilp1/service/UserServiceTest.java
+/home/master/ILP_BookStoreWorkspace/src/test/java/devops/ilp1/controllerWithoutDb/ChangePasswordTest.java
+/home/master/ILP_BookStoreWorkspace/src/test/java/devops/ilp1/controllerWithoutDb/LoginTest.java
+/home/master/ILP_BookStoreWorkspace/src/test/java/devops/ilp1/controllerWithoutDb/RegisterTest.java
+/home/master/ILP_BookStoreWorkspace/src/integration-test/java/devops/ilp1/LoginFunctionalTest.java
+/home/master/ILP_BookStoreWorkspace/src/integration-test/java/devops/ilp1/IntegrationTest.java
