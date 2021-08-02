@@ -174,19 +174,19 @@
 								<pluginExecution>
 									<pluginExecutionFilter>
 										<groupId>
-											org.codehaus.mojo
+										org.codehaus.mojo
 										</groupId>
 										<artifactId>
-											build-helper-maven-plugin
+										build-helper-maven-plugin
 										</artifactId>
 										<versionRange>
-											[1.9.1,)
+										[1.9.1,)
 										</versionRange>
 										<goals>
-											<goal>add-test-source</goal>
-											<goal>
-												add-test-resource
-											</goal>
+										<goal>add-test-source</goal>
+										<goal>
+										add-test-resource
+										</goal>
 										</goals>
 									</pluginExecutionFilter>
 									<action>
