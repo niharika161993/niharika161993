@@ -277,4 +277,8 @@
 	</profiles>
 </project>
 
-
+<properties>
+  <sonar.projectKey>niharika161993_hello-world</sonar.projectKey>
+  <sonar.organization>niharika161993</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
