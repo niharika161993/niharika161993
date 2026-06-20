@@ -164,22 +164,11 @@ Automated migration of source code repositories from TFS to GitHub.
 
 ## 🤝 Let's Connect
 
-
-
+---
 
 <div align="center">
 
-### ⭐ Automate Everything | Monitor Everything | Scale Reliably ⭐
+###  🧚 Automate Everything | Monitor Everything | Scale Reliably 🧚
 
 </div>
 
-
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niharika161993/niharika161993/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niharika161993/niharika161993/output/pacman-contribution-graph.svg">
-  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/niharika161993/niharika161993/output/pacman-contribution-graph.svg">
-</picture>
