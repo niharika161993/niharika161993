@@ -1,7 +1,12 @@
 
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Niharika%20Gupta&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=DevOps%20%C2%B7%20SRE%20&descAlignY=62&descSize=17" />
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1200&color=A78BFA&center=true&vCenter=true&width=1200&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;Automating-Infrastructure+%C2%B7+Accelerating-Delivery+%C2%B7+Improving-Reliability;From+Code+to+Cloud+seamlessly)](https://git.io/typing-svg)
 
 
-# 👋 Hi, I'm Niharika
+<h2 style="color:A78BFA"> Hi, I'm Niharika 🧚 </h2>
 
 <div align="center">
 
