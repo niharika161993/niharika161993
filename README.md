@@ -18,6 +18,15 @@ Building scalable, secure, and automated cloud infrastructure with a passion for
 
 ---
 
+## 🌱 Certificates
+
+* The Linux Foundation – LFS158: Introduction to Kubernetes (Verified)
+* AWS SimuLearn - Cloud Practitioner - Training Badge (Verified)
+* AWS Cloud Practitioner Essentials (Verified)
+
+
+---
+
 ## 💫 About Me
 
 * ☁️ 7+ years of experience in DevOps, Cloud, and Site Reliability Engineering
